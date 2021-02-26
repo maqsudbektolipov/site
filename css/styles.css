@@ -52,7 +52,7 @@ nav li a:hover {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-template-rows: 1fr;
-	gap: 0px 3rem;
+	gap: 0px 6rem;
 	grid-template-areas: ". .";
 	align-items: center;
 	text-align: center;
